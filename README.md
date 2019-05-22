@@ -1,7 +1,7 @@
 ## Compiler
 
 
-####Usage:
+#### Usage:
 ```
 python main.py
 
@@ -12,7 +12,7 @@ clang output.o -o output
 ./output
 ```
 
-####Requirements:
+#### Requirements:
 - see requirements.txt
 - LLC
 - clang  
